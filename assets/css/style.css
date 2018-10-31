@@ -1,0 +1,62 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Playfair Display', serif; */
+}
+.navbar-light .navbar-nav .nav-link .active {
+    color: #303030;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #303030;
+}
+.about-content{}
+.about-content h2{
+  font-size: 60px;
+  color: #252525;
+}
+.about-content h5{
+  font-size: 30px;
+  color: #242424;
+}
+
+.about-content h5 span{
+  color: #ffc000;
+}
+.about-content p{
+  color: #6b6b6b;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.about-content button{
+  color: #141414;
+  font-size: 15px;
+}
+.expertice{
+  background-image: linear-gradient(to right, #fa173b, #fb3d35, #fb5531, #fa692e, #f97a2e);
+}
+.expertice{
+  font-size: 46px;
+}
+.expert-single p{
+  position: relative;
+  font-size: 20px;
+  margin-top: 40px;
+}
+.expert-single p:after{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 20px;
+  background: #fff;
+  left: 50%;
+  top: 30%;
+}
+
+
+
+
+
+
+
+.
